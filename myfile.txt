@@ -1,1 +1,1 @@
-hello from feature A
+I am adding feature B!
